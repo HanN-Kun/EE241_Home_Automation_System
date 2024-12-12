@@ -23,7 +23,9 @@
   a fault.If the system is reset (via the Reset (R) input), the latch output is cleared back to 0, resetting the fault status.This allows the system to track
   the triggered state of each sensor independently, even if the sensor returns to its normal condition after being triggered.
 
-
+  Week 4 
+  #Fourth assigment of this project is about continue our work with the adapting sequential circuit to our automation system and drawing both state table and 
+  diagram 
 
 
 
