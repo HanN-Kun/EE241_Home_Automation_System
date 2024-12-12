@@ -25,7 +25,11 @@
 
   Week 4 
   #Fourth assigment of this project is about continue our work with the adapting sequential circuit to our automation system and drawing both state table and 
-  diagram 
+  diagram.In verilog part we create D,JK and T flip-flop modules in to our code.Then we adapt these modules for our sensors so that we can take advantage of
+  properties of flip flops.We use JK flip-flops to window and door sensor.Temperature sensor to T flip-flop and Motion sensor to D flip-flop.We also wanted 
+  to use segment part in our card so that we may display the number of sensor which give alarm can be seen on the segment part.But we could not add this part
+  yet.
+  
 
 
 
