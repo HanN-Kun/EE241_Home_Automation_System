@@ -29,6 +29,15 @@
   properties of flip flops.We use JK flip-flops to window and door sensor.Temperature sensor to T flip-flop and Motion sensor to D flip-flop.We also wanted 
   to use segment part in our card so that we may display the number of sensor which give alarm can be seen on the segment part.But we could not add this part
   yet.
+
+  Week 5
+  #Fifth assigment,In this part we add some new properties to our project.These are counter part and a panic button which is trigger the general alarm by manualy.Counter part objective is counting the total 
+  alerting sensor's and total general alarm number.These numbers are just beign calculated nothing more.Also sev-seg part which we try to adapt at week four is cancelled due to counter adaptation on week 5.
+  We add counter into our code by a another module called "Counter".Then this module summoned in topmodule such that we adapt counter.also We update the state diagram for latest version.Another update is
+  that FSM verilog code which describes the State's in verilog code.
+
+
+  
   
 
 
