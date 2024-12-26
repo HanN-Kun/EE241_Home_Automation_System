@@ -40,10 +40,15 @@
 
   Since In resportories there so many files for systems to clarify this mess;
 
+  
   Week 1 verilog Files  named as "Home_Automation_SYS_Last".
+  
   Week 2 verilog Files named as "EE241_Home_Security_Sys_with_SeqCircuit".
+  
   Week 3 verilog Files named as "Home_Security_UpdatedSeqCircuit".
+  
   Week 4 verilog Files named as "Home_Security_UpdatedSeqCircuit" which stayyed as the same.
+  
   Week 5 verilog Files named as "EE241_Security_Sys_" and "EE241_Security_Sys_FSM".
 
   
